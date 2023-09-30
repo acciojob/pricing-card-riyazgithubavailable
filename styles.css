@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.Card{
+    width: 300px;
+     padding: 20px;
+    background-color:hsl(0, 0%, 90%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 50px auto;
+}
+img{
+	display:block;
+	margin:auto;
+	width:80%;
+	
+	}
+p{
+	margin:2px;
+	padding:1px;
+}
+h1{
+	margin-bottom:5px;
+	
+}
+button{
+	background-color:#ef574c;
+	color:white;
+	border-radius:5px;
+	padding:4px;
+	margin-top:5px;
+}
